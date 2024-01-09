@@ -7,6 +7,22 @@
 
 
 
+``service_log``
+---------------
+*['boolean', 'null']*
+
+**Service logging** Store logs for the service so that they are available in the HTTP API and console.
+
+
+
+``static_ips``
+--------------
+*boolean*
+
+**Static IP addresses** Use static public IP addresses
+
+
+
 ``flink_version``
 -----------------
 *['string', 'null']*
