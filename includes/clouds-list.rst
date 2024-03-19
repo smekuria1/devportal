@@ -27,6 +27,9 @@ Amazon Web Services
     - ``aws-ap-south-1``
     - Asia, India 
   * - Asia-Pacific
+    - ``aws-ap-south-2``
+    - Asia, India 
+  * - Asia-Pacific
     - ``aws-ap-southeast-1``
     - Asia, Singapore 
   * - Asia-Pacific
@@ -35,6 +38,9 @@ Amazon Web Services
   * - Australia
     - ``aws-ap-southeast-2``
     - Australia, New South Wales 
+  * - Australia
+    - ``aws-ap-southeast-4``
+    - Australia, Melbourne
   * - Europe
     - ``aws-eu-central-1``
     - Europe, Germany 
@@ -150,6 +156,9 @@ Azure
     - ``azure-norway-west``
     - Europe, Norway 
   * - Europe
+    - ``azure-sweden-central``
+    - Europe, Gävle 
+  * - Europe
     - ``azure-switzerland-north``
     - Europe, Switzerland 
   * - Europe
@@ -161,6 +170,9 @@ Azure
   * - Europe
     - ``azure-westeurope``
     - Europe, Netherlands 
+  * - Middle East
+    - ``azure-qatar-central``
+    - Middle East, Doha 
   * - Middle East
     - ``azure-uae-north``
     - Middle East, United Arab Emirates 
@@ -291,6 +303,12 @@ Google Cloud
     - ``google-europe-west1``
     - Europe, Belgium 
   * - Europe
+    - ``google-europe-west10``
+    - Europe, Germany 
+  * - Europe
+    - ``google-europe-west12``
+    - Europe, Italy 
+  * - Europe
     - ``google-europe-west2``
     - Europe, England 
   * - Europe
@@ -308,6 +326,12 @@ Google Cloud
   * - Europe
     - ``google-europe-west9``
     - Europe, France 
+  * - Middle East
+    - ``google-me-central1``
+    - Middle East, Qatar 
+  * - Middle East
+    - ``google-me-central2``
+    - Middle East, Saudi Arabia 
   * - Middle East
     - ``google-me-west1``
     - Middle East, Israel 
@@ -375,11 +399,20 @@ UpCloud
     - ``upcloud-fi-hel``
     - Europe, Finland 
   * - Europe
+    - ``upcloud-fi-hel1``
+    - Europe, Finland 
+  * - Europe
+    - ``upcloud-fi-hel2``
+    - Europe, Finland 
+  * - Europe
     - ``upcloud-nl-ams``
     - Europe, Netherlands 
   * - Europe
     - ``upcloud-pl-waw``
     - Europe, Poland 
+  * - Europe
+    - ``upcloud-se-sto``
+    - Europe, Sweden 
   * - North America
     - ``upcloud-us-chi``
     - United States, Illinois 
